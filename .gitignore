@@ -34,6 +34,7 @@ captures/
 # IDEA specific
 /local.properties
 /.idea
+*.iml
 
 # OS Specific
 .DS_Store
